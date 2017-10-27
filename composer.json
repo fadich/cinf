@@ -1,0 +1,11 @@
+{
+    "name": "root/cinf",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fadi A.",
+            "email": "royalfadich@gmail.com"
+        }
+    ],
+    "require": {}
+}
